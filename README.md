@@ -27,7 +27,7 @@ ZTE CLAA LORA-MOTE STACK V1.0.0
 	* D144：[ANT](https://github.com/OS-Q/D144)
 	* D145：[LoRaWAN](https://github.com/OS-Q/D145)
 	* D146：CLAA
-	* D147：[NULL](https://github.com/OS-Q/D147)
+	* D147：[WMN](https://github.com/OS-Q/D147)
 
 ### [LoRa相关](https://github.com/OS-Q/D146) 
 
