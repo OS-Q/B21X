@@ -26,16 +26,15 @@ ZTE CLAA LORA-MOTE STACK V1.0.0
 	* D143：[Thread](https://github.com/OS-Q/D143)
 	* D144：[ANT](https://github.com/OS-Q/D144)
 	* D145：[LoRaWAN](https://github.com/OS-Q/D145)
-	* [D146：CLAA](https://github.com/OS-Q/D146)
+	* D146：CLAA
 	* D147：[NULL](https://github.com/OS-Q/D147)
 
-### [loRa关联](https://github.com/OS-Q/D146) 
+### [LoRa相关](https://github.com/OS-Q/D146) 
 
 * D113：[LoRa module](https://github.com/OS-Q/D113)
 * D137：[LoRa SUB1G](https://github.com/OS-Q/D137)
 * D145：[LoRa MAC](https://github.com/OS-Q/D145)
 * D146：CLAA
-
 
 ### [OS-Q : Operation System for edge devices](http://www.OS-Q.com/Edge/D146)
 ####  2019-5-9
