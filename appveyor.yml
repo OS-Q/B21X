@@ -3,12 +3,14 @@ environment:
 
   matrix:
     - PLATFORMIO_PROJECT_DIR: "project/cmsis-blink"
+    - PLATFORMIO_PROJECT_DIR: "project/stm32cube-ll-blink"
+    - PLATFORMIO_PROJECT_DIR: "project/stm32cube-hal-blink"
 
 install:
   - cmd: git submodule update --init --recursive
   - cmd: SET PATH=C:\Python36\Scripts;%PATH%
   - cmd: pip3 install -U https://github.com/OS-Q/S03/archive/master.zip
-  - cmd: platformio platform install espressif8266
+  - cmd: platformio platform install https://github.com/OS-Q/P01.git
 
 test_script:
   - cmd: platformio run -s -d %PLATFORMIO_PROJECT_DIR%
