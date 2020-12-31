@@ -2,7 +2,7 @@ build: off
 environment:
 
   matrix:
-    - PLATFORMIO_PROJECT_DIR: "project/ESP12"
+    - PLATFORMIO_PROJECT_DIR: "project/cmsis-blink"
 
 install:
   - cmd: git submodule update --init --recursive
